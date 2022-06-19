@@ -52,7 +52,13 @@
     "dist"
   ],
   "dependencies": {
+    "react-multi-form": "^1.0.5",
     "styled-components": "^5.1.1"
   },
-  "keywords": ["react-multi-form", "react-multi-step", "Multi Step Form React", "multi-step" ]
+  "keywords": [
+    "react-multi-form",
+    "react-multi-step",
+    "Multi Step Form React",
+    "multi-step"
+  ]
 }

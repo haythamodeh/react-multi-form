@@ -19,7 +19,7 @@ const App = () => {
   const [active, setActive] = React.useState(1)
   return (
     <Container>
-      <MultiStepForm activeStep={active}>
+      <MultiStepForm activeStep={active} accentColor='#05c6ff'>
         <Step label='shipping'>
           <Shipping />
         </Step>
